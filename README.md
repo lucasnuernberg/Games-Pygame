@@ -1,2 +1,3 @@
 # Games Pygame
- Jokenpo e Snake Game 
+- Jokenpo
+- Snake Game 
